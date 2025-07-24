@@ -6,27 +6,24 @@
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Marcelo! a Brazilian web developer passionate about the IT industry.
-
-  - 📚Graduated in computer science and currently studying web development with udemy courses.
-
-  - 🔭 I'm looking for my first job in the IT industry, my goal is to be a developer.
+  Olá sou Marcelo e aqui eu vou contar um pouco sobre mim. Possuindo experiência profissional na área de desenvolvimento de software na empresa Cipay blockchain, onde adquiri grandes conhecimentos e práticas de trabalho em equipe e também tecnologias para desenvolvimento de software, criando e realizando manutenções de APIs.
+Durante trajetórias de estudos, dentre minha formação acadêmica em ciência da computação na Universidade Paulista(UNIP), como em projetos pessoais, desenvolvi mais de 5 anos de conhecimentos na área de tecnologia, tendo como auxiliador cursos da instituição Udemy. 
+Atualmente trabalhando na CIPAY 
+Blockchain, como Desenvolvedor trainee .Net, C#. 
+Possuindo também algumas experiências profissionais 
+anteriores na área de atendimento ao cliente.
 </p>
 
 <!-- Dropdown -->
 
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-marcelino-fran%C3%A7a-oliveira-105112143/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcelo-marcelino-oliveira)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Marcelino-franca-Oliveira&show_icons=true&theme=gotham)
 
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*KK7C9Hs93DteM6DYbLRD_Q.gif" alt="Imagem">
-</p>
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -36,6 +33,9 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+    <img align="center" alt="Java" height="30" width="40" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000">
+    
+    
 
 
     
@@ -46,8 +46,7 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Eclipse" height="30" width="40" src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png">
-     <img align="center" alt="NetBeans" height="30" width="40" src="https://www.logo.wine/a/logo/NetBeans/NetBeans-Logo.wine.svg">
+   
     
     
    
